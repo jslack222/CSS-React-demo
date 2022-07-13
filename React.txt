@@ -1,0 +1,10 @@
+React Notes
+
+Module Overview: 
+-conditional & dynamic styles 
+-stylized components 
+-CSS modules
+
+To use styled compenents you must download this package in your project folder per new project
+type 'npm install --save styled-components' in the terminal and hit enter 
+
